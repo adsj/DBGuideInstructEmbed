@@ -1,5 +1,6 @@
 # DBGuideInstructEmbed
 Natural Language Search to return pdf using Hugging Face Instruct embedding model.  <br />
+TO USE:  
 Create a file in GoogleDrive called PDFs.  
 Put PDFs in file MyDrive/PDFs.  
 Creates a Vector database in MyDrive/VectorDBs/PDFsVecDBInstruct.  
